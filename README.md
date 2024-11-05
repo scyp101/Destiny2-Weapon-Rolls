@@ -6,3 +6,4 @@ Paste this link: https://raw.githubusercontent.com/scyp101/Destiny2-Weapon-Rolls
 
 To use it within DIM, download the "Fish's Wishlist (M&K).txt" file and past it into DIM's custom URL field. To navigate, please follow:
 Path: DIM Home > Setting > Add another wish list > Paste Link
+Pate this link: https://raw.githubusercontent.com/scyp101/Destiny2-Weapon-Rolls/refs/heads/main/Fish's%20Wishlist%20(M%26K).txt
