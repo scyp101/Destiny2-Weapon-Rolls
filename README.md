@@ -1,4 +1,4 @@
-This repository contains Destiny 2 PVE grest roll weapon perks data.
+This repository contains Destiny 2 PVE & PVP great roll weapon perks files to import into Little Light and DIM (Destiny Item Manager).
 
 # Little Light
 To use it within Little Light, copy the raw data URL of "Fish's Wishlist (M&K).json" file and paste it into Little Light's custom URL field. To navigate, please follow:
